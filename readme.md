@@ -10,10 +10,11 @@ One to one, one to many, many to many real time chat applications
 - User registration
 - One to Many realtime chat
 - Many to Many realtime chat
- ###Technology Used
+
+### Technology Used
  
-######Laravel | Vue js | Pusher
-###Browser Support
+###### Laravel | Vue js | Pusher
+### Browser Support
 
 ![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
 
@@ -34,7 +35,7 @@ Update composer:
 $ update composer
 ```
 
-#######Find this values and replace with your puhser account data :
+####### Find this values and replace with your puhser account data :
 
 ```bash
 XXX_PUSHER_APP_ID
@@ -48,4 +49,4 @@ Replace .env.monerkotha to .env and configure database and run
 $ php artisan migrate
 ```
 
-##Now Enjoy Chating !!!
+## Now Enjoy Chating !!!
